@@ -216,3 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data
+data/raw/*
+data/processed/*
+
+# Keep the empty directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# AlphaFold structure files
+*.pdb
+*.cif
+*.mmcif
+
+# Downloaded archives
+*.zip
+*.tar
+*.tar.gz
+
+# Secrets and local configuration
+.env
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
