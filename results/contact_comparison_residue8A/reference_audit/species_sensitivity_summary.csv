@@ -1,0 +1,11 @@
+scope,population,n_zero_in_parent_scope,pct_zero_in_parent_scope,n_pdb,n_assemblies,n,median,q1,q3,mean,min,max
+all_reference_pairs,all_including_zeros,2,6.896551724137931,9,10,29,480.0,89.0,758.0,437.6551724137931,0,915
+all_reference_pairs,nonzero_only,2,6.896551724137931,9,10,27,494.0,93.5,759.0,470.0740740740741,50,915
+Mgen_Mgen_only,all_including_zeros,2,8.695652173913043,7,8,23,678.0,86.5,765.5,457.7391304347826,0,915
+Mgen_Mgen_only,nonzero_only,2,8.695652173913043,7,8,21,699.0,89.0,771.0,501.3333333333333,50,915
+mixed_species_only,all_including_zeros,0,0.0,2,2,4,285.5,127.0,444.0,285.5,91,480
+mixed_species_only,nonzero_only,0,0.0,2,2,4,285.5,127.0,444.0,285.5,91,480
+non_Mgen_non_Mgen,all_including_zeros,0,0.0,2,2,2,511.0,502.5,519.5,511.0,494,528
+non_Mgen_non_Mgen,nonzero_only,0,0.0,2,2,2,511.0,502.5,519.5,511.0,494,528
+current_Mgen_containing_scope,all_including_zeros,2,7.4074074074074066,9,10,27,437.0,88.5,759.0,432.22222222222223,0,915
+current_Mgen_containing_scope,nonzero_only,2,7.4074074074074066,9,10,25,480.0,91.0,760.0,466.8,50,915

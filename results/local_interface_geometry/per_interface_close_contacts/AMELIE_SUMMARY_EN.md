@@ -1,0 +1,9 @@
+# Suggested summary for Amelie
+
+I compared the number of 3–4 Å residue-pair contacts per interface, rather than only pooled contact proportions. Among interfaces with at least one contact within 8 Å, the median close-contact counts were 5 for Pedro (n=54,109), 32 for FoldBench experimental interfaces (n=132), and 20 for SAFES experimental interfaces (n=42). The Pedro−experimental median differences were −27 (95% job/PDB-cluster bootstrap CI −31 to −25) and −15 (−27 to −11), respectively; Cliff’s delta was −0.744 and −0.626. Quantiles use the inverse empirical CDF convention.
+
+The differences were statistically detectable under the specified cluster assumptions: Holm-adjusted approximate cluster-robust tests of mean log(1+count) gave p≈1.47×10⁻³⁷ and 2.23×10⁻¹³ for the nonzero comparisons. A supplementary cluster-bootstrap distribution test was consistent with these contrasts. Including zero-contact interfaces increased the observed differences. Existing severe-overlap QC and a coarser archive grouping did not change the direction.
+
+This is not yet an interface-area-adjusted comparison. Buried area is available for only 12 selected Pedro pilot cases, so a representative Å²-adjusted analysis cannot be made from the current data. Descriptive matching on total 8 Å contact count still gave fewer close contacts in Pedro (mean matched-count differences approximately −15.57 and −11.31), but total contact count is not equivalent to buried area.
+
+These are exploratory between-dataset differences, not evidence that AF3 is inaccurate by the same amount. Dataset selection, interface size and zero inflation differ; proteins recur across Pedro jobs, leaving dependence that job/PDB clustering cannot fully remove. The separate corresponding Experimental–AF3 controls show much smaller median count differences (+1 in FoldBench and 0 in SAFES).

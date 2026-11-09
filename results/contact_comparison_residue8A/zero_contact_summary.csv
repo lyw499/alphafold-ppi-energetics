@@ -1,0 +1,10 @@
+dataset,n_computable,n_structures,n_zero,pct_zero,n_nonzero,n_qc_flagged
+FoldBench experimental all,279,239,0,0.0,279,0
+FoldBench experimental paired,132,108,0,0.0,132,0
+FoldBench AF3 paired,132,108,1,0.7575757575757576,131,0
+Pedro raw,170644,2156,116535,68.29129650031645,54109,464
+Pedro QC,170180,2156,116535,68.4774944176754,53645,0
+Reference all 29,29,10,2,6.896551724137931,27,0
+Reference Mgen-containing,27,10,2,7.4074074074074066,25,0
+SAFES provisional experimental,10,10,0,0.0,10,0
+SAFES provisional AF3,10,10,0,0.0,10,0
