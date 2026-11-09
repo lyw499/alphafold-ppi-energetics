@@ -1,0 +1,11 @@
+pdb_id,structure_id,n_observations,sum_contacts,median_contacts,max_contacts,percent_of_25
+4NZR,4nzr-assembly1,2,619,309.5,480,8.0
+4NZT,4nzt-assembly1,2,523,261.5,432,8.0
+6RUT,6rut-assembly1,5,1793,96.0,771,20.0
+6RUT,6rut-assembly2,5,1777,89.0,760,20.0
+6YRK,6yrk-assembly1,1,757,757.0,757,4.0
+8PBX,8pbx-assembly1,1,865,865.0,865,4.0
+8PBY,8pby-assembly1,1,862,862.0,862,4.0
+8PBZ,8pbz-assembly1,6,3122,688.5,801,24.0
+8PC0,8pc0-assembly1,1,437,437.0,437,4.0
+8PC1,8pc1-assembly1,1,915,915.0,915,4.0

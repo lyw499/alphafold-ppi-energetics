@@ -1,0 +1,14 @@
+interface_id,pdb_id,assembly_id,experimental_chains,pedro_interface_id,pedro_chains,comparison_tier,resolution_A,mapped_exp_contacts,mapped_af3_contacts,shared_8A_contacts,exp_close_contacts,af3_close_contacts,retained_close_contacts,lost_close_contacts,gained_close_contacts,all_experimental_contact_distances_validated,all_close_contacts_have_exact_AF3_distance,exp_interface_residues_all_stably_mapped
+6rut-assembly1:G-2:H-2,6RUT,1,G-2:H-2,a063_j0007:r425,C:E,primary_6RUT,2.65,771,799,706,105,90,68,37,22,True,True,True
+6rut-assembly1:A:B,6RUT,1,A:B,a063_j0007:r425,C:E,primary_6RUT,2.65,758,801,702,100,90,71,29,19,True,True,True
+6rut-assembly2:E-2:F-2,6RUT,2,E-2:F-2,a063_j0007:r425,C:E,primary_6RUT,2.65,760,799,709,101,90,68,33,22,True,True,True
+6rut-assembly2:C:D,6RUT,2,C:D,a063_j0007:r425,C:E,primary_6RUT,2.65,758,801,704,100,90,68,32,22,True,True,True
+6yrk-assembly1:A:B,6YRK,1,A:B,a063_j0007:r425,C:E,additional_corresponding,4.1,757,801,702,102,90,71,31,19,True,True,True
+8pbx-assembly1:A:B,8PBX,1,A:B,a063_j0007:r425,C:E,additional_corresponding,3.3,865,859,763,90,95,57,33,38,True,True,True
+8pby-assembly1:A:B,8PBY,1,A:B,a063_j0007:r425,C:E,additional_corresponding,3.7,862,859,685,85,95,40,45,55,True,True,True
+8pbz-assembly1:C:D,8PBZ,1,C:D,a063_j0007:r425,C:E,low_resolution_corresponding_exploratory,11.0,801,1068,387,70,110,12,58,98,True,True,True
+8pbz-assembly1:A:B,8PBZ,1,A:B,a063_j0007:r425,C:E,low_resolution_corresponding_exploratory,11.0,797,1068,389,73,110,12,61,98,True,True,True
+8pbz-assembly1:B:C,8PBZ,1,B:C,a063_j0007:r425,C:E,alternative_partial_overlap_low_resolution,11.0,699,1068,158,55,110,10,45,100,True,True,True
+8pbz-assembly1:A:D,8PBZ,1,A:D,a063_j0007:r425,C:E,alternative_partial_overlap_low_resolution,11.0,678,1068,161,51,110,7,44,103,True,True,True
+8pc0-assembly1:A:B,8PC0,1,A:B,a063_j0007:r425,C:E,low_resolution_corresponding_exploratory,17.0,437,703,252,32,75,9,23,66,True,True,True
+8pc1-assembly1:A:B,8PC1,1,A:B,a063_j0007:r425,C:E,low_resolution_corresponding_exploratory,18.0,915,859,514,93,95,23,70,72,True,True,True
